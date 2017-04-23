@@ -17,5 +17,4 @@
 //  limitations under the License.
 //
 
-#import "swiftdecl.h" // Swift Clang-importer macros
 #import <cuda_builtin_vars.h>
